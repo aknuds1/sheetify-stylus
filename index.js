@@ -1,6 +1,6 @@
 const stylus = require('stylus')
 
-function sheetifyStylus(filename, source, options, cb) {
+module.exports = function sheetifyStylus(filename, source, options, cb) {
   options = Object.assign({}, options, {
     filename,
     compress: true,
