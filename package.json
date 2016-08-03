@@ -1,0 +1,22 @@
+{
+  "name": "sheetify-stylus",
+  "version": "1.0.0-0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/seangenabe/sheetify-stylus",
+  "author": "Sean Genabe <seangenabe@outlook.com>",
+  "repository": "seangenabe/sheetify-stylus",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "sheetify",
+    "css",
+    "stylus",
+    "plugin"
+  ],
+  "dependencies": {
+    "stylus": "^0.54.5"
+  }
+}
