@@ -2,9 +2,7 @@ const stylus = require('stylus')
 
 module.exports = function sheetifyStylus(filename, source, options, cb) {
   options = Object.assign({}, options, {
-    filename,
-    compress: true,
-    sourcemap: true
+    filename
   })
   stylus.render(source, options, cb)
 }
