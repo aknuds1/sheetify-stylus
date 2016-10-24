@@ -1,13 +1,13 @@
 {
   "name": "sheetify-stylus",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Stylus plugin for sheetify",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/seangenabe/sheetify-stylus",
-  "author": "Sean Genabe <seangenabe@outlook.com>",
-  "repository": "seangenabe/sheetify-stylus",
+  "homepage": "https://github.com/aknuds1/sheetify-stylus",
+  "author": "Arve Knudsen <arve.knudsen@gmail.com>",
+  "repository": "aknuds1/sheetify-stylus",
   "license": "MIT",
   "main": "index.js",
   "keywords": [
