@@ -1,6 +1,6 @@
 {
   "name": "@arve.knudsen/sheetify-stylus",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "Stylus plugin for sheetify",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,9 +17,10 @@
     "plugin"
   ],
   "dependencies": {
+    "sheetify": "^6.2.0",
     "stylus": "^0.54.5"
   },
   "peerDependencies": {
-    "sheetify": "^5.2"
+    "sheetify": "^6.2"
   }
 }
